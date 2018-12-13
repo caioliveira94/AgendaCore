@@ -1,0 +1,12 @@
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\bin\Debug\netcoreapp2.1\Agenda.Infra.deps.json
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\bin\Debug\netcoreapp2.1\Agenda.Infra.dll
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\bin\Debug\netcoreapp2.1\Agenda.Domain.dll
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\bin\Debug\netcoreapp2.1\Agenda.Domain.pdb
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\obj\Debug\netcoreapp2.1\Agenda.Infra.csprojAssemblyReference.cache
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\obj\Debug\netcoreapp2.1\Agenda.Infra.csproj.CoreCompileInputs.cache
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\obj\Debug\netcoreapp2.1\Agenda.Infra.AssemblyInfoInputs.cache
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\obj\Debug\netcoreapp2.1\Agenda.Infra.AssemblyInfo.cs
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\obj\Debug\netcoreapp2.1\Agenda.Infra.csproj.CopyComplete
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\bin\Debug\netcoreapp2.1\Agenda.Infra.pdb
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\obj\Debug\netcoreapp2.1\Agenda.Infra.dll
+D:\Desktop\Agenda Caio\Agenda\Agenda.Infra\obj\Debug\netcoreapp2.1\Agenda.Infra.pdb

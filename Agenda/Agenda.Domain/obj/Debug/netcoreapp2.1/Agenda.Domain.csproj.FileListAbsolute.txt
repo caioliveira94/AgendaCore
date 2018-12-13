@@ -1,0 +1,9 @@
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\bin\Debug\netcoreapp2.1\Agenda.Domain.deps.json
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\bin\Debug\netcoreapp2.1\Agenda.Domain.dll
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\bin\Debug\netcoreapp2.1\Agenda.Domain.pdb
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\obj\Debug\netcoreapp2.1\Agenda.Domain.csprojAssemblyReference.cache
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\obj\Debug\netcoreapp2.1\Agenda.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\obj\Debug\netcoreapp2.1\Agenda.Domain.AssemblyInfoInputs.cache
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\obj\Debug\netcoreapp2.1\Agenda.Domain.AssemblyInfo.cs
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\obj\Debug\netcoreapp2.1\Agenda.Domain.dll
+D:\Desktop\Agenda Caio\Agenda\Agenda.Domain\obj\Debug\netcoreapp2.1\Agenda.Domain.pdb
